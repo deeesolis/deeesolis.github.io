@@ -1,3 +1,4 @@
+<base target="_blank">
 ---
 title: "my b.io page"
 permalink: "/bio/"
