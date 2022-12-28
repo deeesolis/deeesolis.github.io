@@ -1,5 +1,5 @@
 ---
-title: "confronting bias"
+title: "confronting bias with data"
 layout: post
 ---
 
