@@ -1,6 +1,6 @@
 ---
 title: "my b.io page"
-permalink: "/b.io/"
+permalink: "/bio/"
 layout: page
 ---
 
