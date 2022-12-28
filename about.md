@@ -1,3 +1,10 @@
+---
+title: "my b.io page"
+permalink: "/b.io/"
+layout: page
+---
+
+
 #my b.io page
 Deana Solis is the youngest daughter of Filipino immigrants and the mom of a biracial son.
 
