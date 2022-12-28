@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll"
+title: "confronting bias"
 layout: post
 ---
 
