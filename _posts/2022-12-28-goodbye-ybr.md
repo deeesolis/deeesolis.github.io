@@ -1,5 +1,5 @@
 ---
-title:  "bye felicia"
+title:  "bye 2022"
 layout: post
 ---
 
