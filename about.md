@@ -25,7 +25,7 @@ I haven't had senior and engineer in my job title since 2014, but here I am, put
 
 I stopped trying to keep up with web development when HTML and CSS were the only skills a blogger needed. Until, that is, I wondered how hard it could be to edit and host my own site again. It's not not hard. New terms to learn, languages to navigate and architectures that have evolved into entirely different shapes and sizes. 
 
-All this to say, I made this with templates. I forked, I cloned, I copied and pasted. You can do the same with my repo, but you're so much better off if you [start where I did:](https://niklasbuschmann.github.io/contrast/about/){:target="_blank"}
+All this to say, I made this with templates. I forked, I cloned, I copied and pasted. You can do the same with my repo, but you're so much better off if you [start where I did.](https://niklasbuschmann.github.io/contrast/about/){:target="_blank"}
 
 For a few years I subscribed to A Cloud Guru, now part of Pluralsight, to learn everything I could, on demand, about cloud technologies. Recently, I replaced that subscription with premium youtube and some patreon instructors. Coding isn't my strength, but in the way that learning it connects me to the content I publish, it's like cooking, and other basic life skills. 
 
