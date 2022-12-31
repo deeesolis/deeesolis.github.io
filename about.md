@@ -21,7 +21,7 @@ After that job (no, I didn't get fired), I maintained a couple more internal web
 
 In the twenty-something years since my start in information technology, I almost forgot the alternating boot up sounds of the floppy and hard drives or the rigor of changing daily tape backup drives in that chilly data center across the hall from the morgue. I work in the cloud now. I can deploy infrastructure as code. Not that I do, but I know what that means and I could do it if I had to. 
 
-I haven't had senior and engineer in my job title since 2014, but here I am, putting those online git tutorials to use. I still get a little nervous that I'll crash a web server but then I remember that mine are running in self healing containers now and we only use phrases like loadbalancing ironically. 
+I haven't had senior and engineer in my job title since 2014, but here I am, putting those online git tutorials to use. I still get a little nervous that I'll crash a web server but then I remember that mine are running in self healing containers now and we only use phrases like `loadbalancing clusters` ironically. 
 
 I stopped trying to keep up with web development when HTML and CSS were the only skills a blogger needed. Until, that is, I wondered how hard it could be to edit and host my own site again. It's not not hard. New terms to learn, languages to navigate and architectures that have evolved into entirely different shapes and sizes. 
 
