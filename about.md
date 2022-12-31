@@ -3,7 +3,10 @@ title: "about"
 permalink: "/about/"
 layout: page
 ---
-this space is my
+
+
+
+making this space my
 ## personal webpage 
 
 I learned how to crash my first web server in 2000. I was trying to be helpful by updating and publishing a FAQ page in my spare time. In retrospect, it was above my helpdesk skillset. There was nothing in the A+ computer tech course that said I could bring down the whole Apache cluster. What even is that? 
