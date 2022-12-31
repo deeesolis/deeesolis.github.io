@@ -1,5 +1,5 @@
 ---
-title:  "FinOps Mentor"
+title:  "finOps mentor"
 layout: post
 ---
 
