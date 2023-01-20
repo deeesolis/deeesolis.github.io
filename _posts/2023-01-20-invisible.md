@@ -5,7 +5,7 @@ layout: post
 
 Last year, I spoke at a conference and the title of my talk began with _My Invisible Journey..._ 
 
-By then I had learned to control it, use invisibility strategically, as my power. The conversation about being invisible began with my AAPI community a little more than a year before the conference. We were grieving the hate and violence against Asians. 
+By then I had learned to control it, use invisibility strategically, as my power. The conversation about being invisible began with my AAPI community a little more than a year before the conference. We were grieving the hate and violence against Asians. Portland Women in Tech, PDXWIT, offered a spot on their blog for a few of us to tell our stories. Asian hate doesn't stop because we make a hashtag. It stops when our own humanity becomes visible to those who would dehumanize us without giving it another thought. 
 
 _I am a descendant of people whose names were replaced by Spanish ones some centuries ago. I am the daughter of immigrants who stopped speaking Tagalog to their children after my older brother was bullied in kindergarten for his accent. Kindergarten. I am a cousin to people who have lived and worked in shadows after arriving some decades ago on student or tourist visas. I know something about making myself invisible._ 
 
