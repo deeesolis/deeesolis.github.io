@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "about.md"}
   - {file: "bio.md", title: "bio"}  
-  - {file: "podcaster.html", title: "media"}    
+  - {file: "media.html", title: "media"}    
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:deeesolis@users.noreply.github.com"}
