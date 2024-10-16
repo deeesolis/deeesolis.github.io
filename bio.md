@@ -12,7 +12,7 @@ Born in Los Angeles, California, Deana attended public schools from grades K-12,
 
 ## professional nerd
 
-As a senior FinOps engineer at [Smarsh](https://www.smarsh.com/){:target="_blank"}, Deana draws from over two decades of technology and infrastructure management experience. She considers the practice of cloud financial management and the study of economic incentives and behaviors in cloud engineering as a natural progression toward sustainable operations.
+As a senior FinOps engineer, Deana draws from over two decades of technology and infrastructure management experience. She considers the practice of cloud financial management and the study of economic incentives and behaviors in cloud engineering as a natural progression toward sustainable operations.
 
 In 2022, the [FinOps Foundation](https://www.finops.org/introduction/what-is-finops/){:target="_blank"}, named her FinOps Evangelist of the Year at the first annual [FinOpsX conference](https://youtu.be/-It8MhfTdmQ?t=1116){:target="_blank"}. She continues to serve as an official ambassador at Women in FinOps and other networking meetups. 
 
